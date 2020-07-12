@@ -1,16 +1,20 @@
 {
   "squares": [
-    { "name": "media",
+    { "name": "social media",
       "color": "red",
       "links": [
-        { "name": "YouTube", "url": "https://youtube.com" }
+        { "name": "YouTube", "url": "https://youtube.com" },
+        { "name": "Reddit", "url": "https://reddit.com" },
+        { "name": "Facebook", "url": "https://facebook.com/" },
+        { "name": "Twitter", "url": "https://twitter.com" }
       ]
     },
     { "name": "work",
       "color": "#26A69A",
       "links": [
         { "name": "Github", "url": "https://github.com" },
-        { "name": "Classroom", "url": "https://classroom.google.com/u/1/h" }
+        { "name": "Classroom", "url": "https://classroom.google.com/u/1/h" },
+        { "name": "Gmail", "url": "http://gmail.com/"}
       ]
     },
     { "name": "social",
@@ -23,9 +27,9 @@
     {
       "name": "Others",
       "links": [
-        {"name": "XDA Forum", "url": "https://forum.xda-developers.com/"},
-        {"name": "Gmail", "url": "http://gmail.com/"},
-        {"name": "Google Cloud", "url": "https://console.cloud.google.com/compute/instances?project=summer-surfer-254215"},
+        { "name": "XDA Forum", "url": "https://forum.xda-developers.com/"},
+        { "name": "Device Tree", "url": "https://github.com/DarkPlayerr/android_device_google_marlin"}
+        { "name": "Google Cloud", "url": "https://console.cloud.google.com/compute/instances?project=summer-surfer-254215"},
       ]
     }
   ],
