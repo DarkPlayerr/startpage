@@ -3,48 +3,42 @@
     { "name": "media",
       "color": "red",
       "links": [
-        { "name": "Spotify", "url": "https://open.spotify.com/" },
-        { "name": "YoutubeMusic", "url": "https://music.youtube.com/" },
-        { "name": "Netflix", "url": "https://netflix.com" },
-        { "name": "Youtube", "url": "https://youtube.com" }
+        { "name": "YouTube", "url": "https://youtube.com" }
       ]
     },
     { "name": "work",
       "color": "#26A69A",
       "links": [
         { "name": "Github", "url": "https://github.com" },
-        { "name": "Heroku", "url": "http://heroku.com/" },
-        { "name": "localhost", "url": "http://localhost:8000/" }
+        { "name": "Classroom", "url": "https://classroom.google.com/u/1/h" }
       ]
     },
     { "name": "social",
       "links": [
         { "name": "Reddit", "url": "https://reddit.com" },
-        { "name": "Unixporn Love", "url": "https://deepjyoti30.github.io/unixporn-love/" },
-        { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" },
-        { "name": "r/mk", "url": "https://www.reddit.com/r/MechanicalKeyboards/" }
+        { "name": "Facebook", "url": "https://facebook.com/" },
+        { "name": "Twitter", "url": "https://twitter.com" }
       ]
     },
     {
       "name": "Others",
       "links": [
-        {"name": "Material Colors", "url": "http://materialuicolors.co/"},
+        {"name": "XDA Forum", "url": "https://forum.xda-developers.com/"},
         {"name": "Gmail", "url": "http://gmail.com/"},
-        {"name": "neo4j Local", "url": "http://localhost:7474/"},
-        {"name": "rarbg", "url": "http://rarbg.to"}
+        {"name": "Google Cloud", "url": "https://console.cloud.google.com/compute/instances?project=summer-surfer-254215"},
       ]
     }
   ],
-  "searchEngine":"DuckDuckGo",
-  "user": "Deepjyoti",
+  "searchEngine":"Google",
+  "user": "DarkPlayer",
   "disableMessage": false,
   "disableDate": false,
   "disableSearchBar": false,
   "disable24Hour": false,
-  "disableWeather": true,
-  "timeZone": "America/Los_Angeles",
+  "disableWeather": false,
+  "timeZone": "Poland/Warsaw",
   "weatherConf": {
-    "location": "Pune India",
+    "location": "Warsaw",
     "unit": "cel"
   }
 }
