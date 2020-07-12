@@ -28,8 +28,8 @@
       "name": "Others",
       "links": [
         { "name": "XDA Forum", "url": "https://forum.xda-developers.com/"},
-        { "name": "Device Tree", "url": "https://github.com/DarkPlayerr/android_device_google_marlin"}
-        { "name": "Google Cloud", "url": "https://console.cloud.google.com/compute/instances?project=summer-surfer-254215"},
+        { "name": "Device Tree", "url": "https://github.com/DarkPlayerr/android_device_google_marlin"},
+        { "name": "Google Cloud", "url": "https://console.cloud.google.com/compute/instances?project=summer-surfer-254215"}
       ]
     }
   ],
