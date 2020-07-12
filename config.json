@@ -17,15 +17,15 @@
         { "name": "Gmail", "url": "http://gmail.com/"}
       ]
     },
-    { "name": "social",
+    { "name": "placeholder",
       "links": [
-        { "name": "Reddit", "url": "https://reddit.com" },
-        { "name": "Facebook", "url": "https://facebook.com/" },
-        { "name": "Twitter", "url": "https://twitter.com" }
+        { "name": "placeholder", "url": "https://reddit.com" },
+        { "name": "placeholder", "url": "https://facebook.com/" },
+        { "name": "placeholder", "url": "https://twitter.com" }
       ]
     },
     {
-      "name": "Others",
+      "name": "rom shit",
       "links": [
         { "name": "XDA Forum", "url": "https://forum.xda-developers.com/"},
         { "name": "Device Tree", "url": "https://github.com/DarkPlayerr/android_device_google_marlin"},
