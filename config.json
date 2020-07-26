@@ -14,21 +14,20 @@
       "links": [
         { "name": "Github", "url": "https://github.com" },
         { "name": "Classroom", "url": "https://classroom.google.com/u/1/h" },
-        { "name": "Gmail", "url": "http://gmail.com/"}
+        { "name": "Gmail", "url": "http://gmail.com/"},
+        { "name": "Heroku", "url": "https://dashboard.heroku.com/apps" }
       ]
     },
-    { "name": "placeholder",
+    { "name": "github",
       "links": [
-        { "name": "placeholder", "url": "https://reddit.com" },
-        { "name": "placeholder", "url": "https://facebook.com/" },
-        { "name": "placeholder", "url": "https://twitter.com" }
+        { "name": "android_device_google_marlin", "url": "https://github.com/DarkPlayerr/android_device_google_marlin" },
+        { "name": "DarkOUB", "url": "https://github.com/DarkPlayerr/DarkOUB" }
       ]
     },
     {
       "name": "rom shit",
       "links": [
         { "name": "XDA Forum", "url": "https://forum.xda-developers.com/"},
-        { "name": "Device Tree", "url": "https://github.com/DarkPlayerr/android_device_google_marlin"},
         { "name": "Google Cloud", "url": "https://console.cloud.google.com/compute/instances?project=summer-surfer-254215"}
       ]
     }
