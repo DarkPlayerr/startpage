@@ -20,7 +20,7 @@
     },
     { "name": "github",
       "links": [
-        { "name": "android_device_google_marlin", "url": "https://github.com/DarkPlayerr/android_device_google_marlin" },
+        { "name": "Device tree", "url": "https://github.com/DarkPlayerr/android_device_google_marlin" },
         { "name": "DarkOUB", "url": "https://github.com/DarkPlayerr/DarkOUB" }
       ]
     },
